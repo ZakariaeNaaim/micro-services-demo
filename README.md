@@ -83,7 +83,7 @@ The project showcases the use of Zipkin for distributed tracing, enhancing appli
 
 ## Contact
 
-[Ali Bouali] - [zakariaenaaim@gmail.com]
+[Zakariae Naaim] - [zakariaenaaim@gmail.com]
 
 [Linkedin] - [https://www.linkedin.com/in/zakariae-naaim]
 
